@@ -1,0 +1,5 @@
+//write a java program to print your name,roll,section and branch.
+//Program to print the corresponding grade for a given marks using if-else statement.
+//WAP to print the corresponding week day for a given day no. using switch case statement.
+//WAP to check the entered no. is palindrome or  not.
+//wap to take first name and last name from the user and print them in one line as last name followed by first name.
