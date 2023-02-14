@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Week_Day {
-    public static void main(String s[]) {
+    public static void main(String []args) {
 
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter nth day of the week : ");
